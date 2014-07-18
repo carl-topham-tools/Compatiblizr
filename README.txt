@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: designer023
 Donate link: http://carl-topham.com/
-Tags: polyfill, ie7, ie8, internet explorer, CSS3, Media Queries
+Tags: polyfill, ie7, ie8, internet explorer, CSS3, Media Queries, respond.js, selectivizr.js, border box, ie9.js
 Requires at least: 3.0.1
 Tested up to: 3.9.1
 Stable tag: 0.2

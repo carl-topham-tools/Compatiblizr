@@ -17,7 +17,7 @@ IE 7 and 8 don't do CSS3 or Media queries so instead of adding the fixes to your
 == Installation ==
 
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload the `compatiblizr` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Check the options that you would like to include in Settings > Compatiblizr
 

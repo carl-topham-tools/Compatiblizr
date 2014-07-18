@@ -1,7 +1,7 @@
 <?php
 /*
     Plugin Name: Compatiblizr
-    Plugin URI: http://carl-topham.com/wordpress/plugins/compatiblizr
+    Plugin URI: https://github.com/Designer023/Compatiblizr
     Description: Plugin for patching old versions of IE (7 &amp; 8)to work with CSS3 selectors and Media Queries.
     Author: C. Topham
     Version: 0.2

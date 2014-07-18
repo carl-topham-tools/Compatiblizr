@@ -27,7 +27,7 @@ function compatiblizr_register_scripts() {
         //register
         wp_register_script( 'ie9-js', plugins_url( '/js/ie9.js', __FILE__ ) );
         wp_register_script( 'respond-js', plugins_url( '/js/respond.js', __FILE__ ) );
-        wp_register_script( 'selectivizr-js', plugins_url( '/js/selectivizr.js', __FILE__ ) );
+        wp_register_script( 'selectivizr-js', plugins_url( '/js/selectivizr.js', __FILE__ ) 'jquery');
         wp_register_script( 'borderbox-js', plugins_url( '/js/border-box.js', __FILE__ ) , '', '', true);
     }
 }

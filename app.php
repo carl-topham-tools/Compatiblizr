@@ -36,11 +36,12 @@ add_action('init', 'compatiblizr_register_scripts');
 
 function compatiblizr_enqueue_scripts()
 {   
-
+    $options = get_option( 'compatiblizr_options' );
+    
     // IE7 & IE8
     if( detect_ie() ) { 
       //enqueue
-      $options = get_option( 'compatiblizr_options' );
+      
       if ( $options['select'] ) {
         wp_enqueue_script( 'selectivizr-js' );
       }
